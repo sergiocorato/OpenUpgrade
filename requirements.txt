@@ -23,7 +23,7 @@ ofxparse==0.16
 passlib==1.6.5
 Pillow==4.0.0
 psutil==4.3.1; sys_platform != 'win32'
-psycopg2==2.7.3.1; sys_platform != 'win32'
+psycopg2==2.7.3.2; sys_platform != 'win32'
 pydot==1.2.3
 pyldap==2.4.28; sys_platform != 'win32'
 pyparsing==2.1.10
@@ -59,8 +59,10 @@ openpyxl==2.6.3
 email_validator==1.0.4
 # for maintainer-tools
 appdirs
+argparse
 autopep8
 click
+configparser
 docutils>=0.15.1,<0.15.1.1
 ERPpeek
 github3.py>=1
