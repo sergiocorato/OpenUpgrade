@@ -75,3 +75,4 @@ PyXB==1.2.6
 unicodecsv
 unidecode
 codicefiscale
+asn1crypto
