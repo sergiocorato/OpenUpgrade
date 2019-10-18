@@ -63,3 +63,4 @@ codicefiscale
 geojson
 shapely
 googlemaps
+zpl2
