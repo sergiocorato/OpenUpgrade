@@ -60,3 +60,6 @@ PyXB==1.2.6
 unicodecsv
 unidecode
 codicefiscale
+geojson
+shapely
+googlemaps
