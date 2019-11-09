@@ -22,7 +22,7 @@ vatnumber==1.0
 vobject==0.8.1c
 werkzeug==0.8.3
 xlwt==0.7.3
-zsi==2.0-rc3
+vmw.ZSI==2.1-a1
 unidecode==0.04.13
 Genshi==0.6
 odfpy==0.9.6
