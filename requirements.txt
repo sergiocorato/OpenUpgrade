@@ -45,7 +45,6 @@ wheel
 #localization
 PyXB==1.2.5
 unicodecsv
-unidecode
 codicefiscale
 asn1crypto
 geojson
