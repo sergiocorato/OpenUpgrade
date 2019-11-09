@@ -10,7 +10,7 @@ psycopg2==2.4.4
 pychart==1.39
 pydot==1.0.28
 pyparsing==1.5.6
-python-dateutil==2.4.0
+python-dateutil==1.5.0
 python-ldap==2.4.9
 python-openid==2.2.5
 pytz==2012b
@@ -19,7 +19,7 @@ pyyaml==3.10
 reportlab==2.5
 simplejson==2.4.0
 vatnumber==1.0
-vobject==0.8.1c
+vobject==0.8.2
 werkzeug==0.8.3
 xlwt==0.7.3
 vmw.ZSI==2.1-a1
@@ -36,7 +36,6 @@ click
 configparser
 docutils>=0.15.1,<0.15.1.1
 ERPpeek
-github3.py>=1
 inflection
 polib
 pygments
