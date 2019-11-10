@@ -1,12 +1,11 @@
 MarkupSafe==0.23
 Pillow==3.2.0
-PyXML==0.8.4
 babel==0.9.6
 feedparser==5.1.1
 gdata==2.0.16
 lxml==2.3.3
 mako==0.6.2
-psycopg2==2.4.4
+psycopg2==2.7.3.2
 pychart==1.39
 pydot==1.0.28
 pyparsing==1.5.6
