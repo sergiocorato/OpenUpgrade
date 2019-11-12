@@ -54,3 +54,4 @@ num2words
 pycups
 phonenumbers==8.10.2
 pyPdf
+PyPDF2
