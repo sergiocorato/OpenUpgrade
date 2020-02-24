@@ -33,6 +33,9 @@ renamed_modules = {
     'stock_pack_operation_auto_fill': 'stock_move_line_auto_fill',
     # OCA/web
     'web_advanced_filters': 'web_advanced_filter',
+    # efatto
+    'l10n_it_ddt_ext': 'l10n_it_ddt_date_start',
+    'invoice_filter_country': 'account_invoice_filter_country',
 }
 
 merged_modules = {
