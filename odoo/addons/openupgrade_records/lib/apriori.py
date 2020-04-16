@@ -36,8 +36,6 @@ renamed_modules = {
     # efatto
     'l10n_it_ddt_ext': 'l10n_it_ddt_date_start',
     'invoice_filter_country': 'account_invoice_filter_country',
-    # other
-    'l10n_it_intrastat_data': 'l10n_it_intrastat',
 }
 
 merged_modules = {
@@ -92,6 +90,8 @@ merged_modules = {
     'web_sheet_full_width': 'web_responsive',
     # OCA/website
     'website_form_metadata': 'website_form',
+    # other
+    'l10n_it_intrastat_data': 'l10n_it_intrastat',
 }
 
 # only used here for openupgrade_records analysis:
