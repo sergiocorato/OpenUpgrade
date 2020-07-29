@@ -88,6 +88,10 @@ merged_modules = [
     ('l10n_br_data_account', 'l10n_br_account'),
     ('l10n_br_data_account_product', 'l10n_br_account_product'),
     ('l10n_br_data_account_service', 'l10n_br_account_service'),
+    # Efatto repair
+    ('machine_manager', 'maintenance'),
+    ('machine_manager_partner', 'maintenance'),
+    ('mrp_repair_machine', 'maintenance'),
 ]
 
 renamed_models = {
