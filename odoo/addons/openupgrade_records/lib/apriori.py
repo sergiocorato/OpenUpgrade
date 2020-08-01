@@ -41,7 +41,6 @@ renamed_modules = {
     'account_invoice_proforma': 'account_invoice_pro_forma_sequence',
     'web_gantt': 'web_gantt8',
     'stock_ddt_data': 'l10n_it_ddt_data',
-    'l10n_it_light': 'l10n_it_payment_data',
 }
 
 merged_modules = [
