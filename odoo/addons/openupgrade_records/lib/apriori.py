@@ -96,10 +96,6 @@ merged_modules = {
     'web_sheet_full_width': 'web_responsive',
     # OCA/website
     'website_form_metadata': 'website_form',
-    # other
-    'l10n_it_intrastat_data': 'l10n_it_intrastat',
-    'l10n_it_report_intrastat': 'l10n_it_intrastat_statement',
-    'l10n_it_report_intrastat_parser': 'l10n_it_intrastat_statement',
     # efatto
     'mrp_repair_discount': 'repair_discount',
     'cq_hydronit_2017': 'product_supplierinfo_for_customer',
